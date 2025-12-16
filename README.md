@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Angel%20Ramos&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,50:ff9f43,100:ffd166&height=200&section=header&text=Angel%20Ramos&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">Desarrollo backend · Linux · Automatización · Sistemas</h3>
@@ -39,6 +39,12 @@ Aprendo de forma autodidacta y constante, priorizando la práctica y la mejora c
 
 ## 📌 Proyectos destacados
 
+### 🤖 Bot de Discord – Moderación y automatización
+
+* Sistema de advertencias, XP, reportes y sugerencias
+* Control de permisos por roles (Staff)
+* Integración con bases de datos MySQL
+
 ### 🌐 Sistema web con autenticación
 
 * Login y registro con manejo de sesiones
@@ -48,8 +54,8 @@ Aprendo de forma autodidacta y constante, priorizando la práctica y la mejora c
 ### 🖥️ Servidores y servicios Linux
 
 * Configuración de servidores web
-* Servicios, Git y contenedores
-* Administración desde CLI
+* Servicios NAS, Git y contenedores
+* Uso de Docker y administración desde CLI
 
 ---
 
@@ -60,7 +66,7 @@ Aprendo de forma autodidacta y constante, priorizando la práctica y la mejora c
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A5PH2&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelRamos&theme=tokyonight" />
 </p>
 
 ---
