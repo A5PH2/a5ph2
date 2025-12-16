@@ -39,12 +39,6 @@ Aprendo de forma autodidacta y constante, priorizando la práctica y la mejora c
 
 ## 📌 Proyectos destacados
 
-### 🤖 Bot de Discord – Moderación y automatización
-
-* Sistema de advertencias, XP, reportes y sugerencias
-* Control de permisos por roles (Staff)
-* Integración con bases de datos MySQL
-
 ### 🌐 Sistema web con autenticación
 
 * Login y registro con manejo de sesiones
@@ -54,19 +48,19 @@ Aprendo de forma autodidacta y constante, priorizando la práctica y la mejora c
 ### 🖥️ Servidores y servicios Linux
 
 * Configuración de servidores web
-* Servicios NAS, Git y contenedores
-* Uso de Docker y administración desde CLI
+* Servicios, Git y contenedores
+* Administración desde CLI
 
 ---
 
 ## 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelRamos&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=A5PH2&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelRamos&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A5PH2&theme=tokyonight" />
 </p>
 
 ---
@@ -81,7 +75,7 @@ Aprendo de forma autodidacta y constante, priorizando la práctica y la mejora c
 
 ## 📫 Contacto
 
-* GitHub: **@AngelRamos**
+* GitHub: **@A5PH2**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
