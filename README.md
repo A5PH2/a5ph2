@@ -39,12 +39,6 @@ Aprendo de forma autodidacta y constante, priorizando la práctica y la mejora c
 
 ## 📌 Proyectos destacados
 
-### 🤖 Bot de Discord – Moderación y automatización
-
-* Sistema de advertencias, XP, reportes y sugerencias
-* Control de permisos por roles (Staff)
-* Integración con bases de datos MySQL
-
 ### 🌐 Sistema web con autenticación
 
 * Login y registro con manejo de sesiones
