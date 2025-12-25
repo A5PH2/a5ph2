@@ -52,9 +52,35 @@
 ## 📌 Repositories
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=profile-readme-generator&theme=tokyonight&border_color=61dafb&border_radius=10)](https://github.com/a5ph2/profile-readme-generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=a5ph2&theme=tokyonight&border_color=61dafb&border_radius=10)](https://github.com/a5ph2/a5ph2)
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Profile README Generator</h3>
+<div align="center">
+<a href="https://github.com/a5ph2/profile-readme-generator" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
+<p>
+<a href="https://github.com/a5ph2/profile-readme-generator" target="_blank">
+<img src="https://img.shields.io/github/stars/a5ph2/profile-readme-generator?style=social">
+</a>
+</p>
+<p>Generador de README para perfiles de GitHub</p>
+</div>
+</td>
 
+<td width="50%">
+<h3 align="center">A5PH2 Profile</h3>
+<div align="center">
+<a href="https://github.com/a5ph2/a5ph2" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
+<p>
+<a href="https://github.com/a5ph2/a5ph2" target="_blank">
+<img src="https://img.shields.io/github/stars/a5ph2/a5ph2?style=social">
+</a>
+</p>
+<p>Mi perfil personal de GitHub</p>
+</div>
+</td>
+</tr>
+</table>
 </div>
 
 ###
