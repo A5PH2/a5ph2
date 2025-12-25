@@ -1,82 +1,96 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,50:ff9f43,100:ffd166&height=200&section=header&text=Angel%20Ramos&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
+<br clear="both">
 
-<h3 align="center">Desarrollo backend · Linux · Automatización · Sistemas</h3>
+<h1 align="center">Hi 👋, I'm Ángel Ramos</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+###
 
----
-
-## 🧠 Sobre mí
-
-Soy un desarrollador enfocado en **backend y sistemas**, con fuerte interés en **Linux, servidores, automatización y ciberseguridad**. Me gusta construir proyectos reales, entender cómo funcionan por dentro y mantener una base sólida: código claro, lógica bien pensada y estructura limpia.
-
-Aprendo de forma autodidacta y constante, priorizando la práctica y la mejora continua.
-
----
-
-## 🛠️ Tecnologías
+<br clear="both">
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
-</p>
 
----
 
-## 📌 Proyectos destacados
+  
+🧠 Sobre mí<br>
+###
 
-### 🌐 Sistema web con autenticación
+Soy un desarrollador enfocado en backend y sistemas, con fuerte interés en Linux, servidores, automatización y ciberseguridad. Me gusta construir proyectos reales, entender cómo funcionan por dentro y mantener una base sólida: código claro, lógica bien pensada y estructura limpia.<br><br>Aprendo de forma autodidacta y constante, priorizando la práctica y la mejora continua.</p>
 
-* Login y registro con manejo de sesiones
-* Notificaciones visuales de errores
-* Arquitectura MVC con Laravel
+###
 
-### 🖥️ Servidores y servicios Linux
+<br clear="both">
 
-* Configuración de servidores web
-* Servicios NAS, Git y contenedores
-* Uso de Docker y administración desde CLI
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+</div>
 
----
+###
 
-## 📈 Estadísticas
+<br clear="both">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A5PH2&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://x.com/A5PH2_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="www.discordapp.com/users/1053771068847960064" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
+  <a href="https://www.youtube.com/channel/UCI8fUVYlT6zgLAwcz8WTaIg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/a5ph2_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="mailto:angelramosgcia@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelRamos&theme=tokyonight" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=a5ph2.a5ph2&"  />
+</div>
 
-## 🎯 En qué me enfoco ahora
+###
 
-* Profundizar en **ciberseguridad**
-* Optimizar rendimiento y seguridad en backend
-* Mejorar arquitectura de proyectos y bases de datos
+<div align="center">
+  <img height="700" src="https://i.pinimg.com/1200x/40/76/0a/40760a0bcc7e26aa65c36cdc3d7bf22a.jpg"  />
+</div>
 
----
+###
 
-## 📫 Contacto
+<br clear="both">
 
-* GitHub: **@A5PH2**
+<img src="https://raw.githubusercontent.com/a5ph2/a5ph2/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-</p>
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=070624&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=040317"  />
+</div>
+
+###
