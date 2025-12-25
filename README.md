@@ -1,4 +1,3 @@
-<br clear="both">
 
 <h1 align="center">Hi 👋, I'm Ángel Ramos</h1>
 
@@ -6,7 +5,6 @@
   <img width="600" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<br clear="both">
 
 <div align="center">
   <div align="left" style="max-width: 800px; margin: 0 auto;">
@@ -90,7 +88,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/a5ph2/a5ph2/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/A5PH2/A5PH2/output/snake.svg" alt="Snake animation" />
 
 ###
 
