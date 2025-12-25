@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ángel Ramos</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20👋,%20I'm%20Ángel%20Ramos&fontSize=40&fontAlignY=35&desc=Backend%20Developer%20|%20Systems%20Enthusiast&descAlignY=55&descSize=18&color=040317" width="100%"/>
+</div>
 
 ###
 
@@ -46,31 +48,14 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-###
-
-<br clear="both">
-
 ## 📌 Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/a5ph2/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=repo1&theme=dark&hide_border=true" />
+  <a href="https://github.com/a5ph2/profile-readme-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=profile-readme-generator&theme=dark&hide_border=true" />
   </a>
-  <a href="https://github.com/a5ph2/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=repo2&theme=dark&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/a5ph2/repo3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=repo3&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/a5ph2/repo4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=repo4&theme=dark&hide_border=true" />
+  <a href="https://github.com/a5ph2/a5ph2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=a5ph2&theme=dark&hide_border=true" />
   </a>
 </div>
 
