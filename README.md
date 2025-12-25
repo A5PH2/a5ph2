@@ -6,14 +6,19 @@
 
 <br clear="both">
 
-<p align="center">
+<div align="center">
+  <div align="left" style="max-width: 800px; margin: 0 auto;">
+    <p>🧠 Sobre mí</p>
+    <p>
+    Desarrollador backend especializado en sistemas y arquitectura de servidores. Me apasiona el ecosistema Linux, la automatización de infraestructura y la ciberseguridad aplicada. Construyo proyectos que resuelven problemas reales, siempre buscando código eficiente, arquitecturas escalables y buenas prácticas de seguridad.<br><br>
+    Creo en el aprendizaje continuo a través de la práctica: leo código, documento procesos y comparto conocimiento. Actualmente profundizando en Rust para sistemas de bajo nivel y optimización de rendimiento.
+    </p>
+  </div>
+</div>
 
-
-  
-🧠 Sobre mí<br>
-###
-
-Soy un desarrollador enfocado en backend y sistemas, con fuerte interés en Linux, servidores, automatización y ciberseguridad. Me gusta construir proyectos reales, entender cómo funcionan por dentro y mantener una base sólida: código claro, lógica bien pensada y estructura limpia.<br><br>Aprendo de forma autodidacta y constante, priorizando la práctica y la mejora continua.</p>
+<div align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ###
 
