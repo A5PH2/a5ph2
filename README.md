@@ -50,14 +50,11 @@
 <br clear="both">
 
 ## 📌 Repositories
-
 <div align="center">
-  <a href="https://github.com/a5ph2/profile-readme-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=profile-readme-generator&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/a5ph2/a5ph2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=a5ph2&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=profile-readme-generator&theme=tokyonight&border_color=61dafb&border_radius=10)](https://github.com/a5ph2/profile-readme-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=a5ph2&theme=tokyonight&border_color=61dafb&border_radius=10)](https://github.com/a5ph2/a5ph2)
+
 </div>
 
 ###
