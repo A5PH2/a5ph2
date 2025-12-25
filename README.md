@@ -1,157 +1,135 @@
+<h1 align="center">Hi 👋, I'm Ángel Ramos</h1>
+
+###
+
+<br clear="both">
+
+<p align="left">🧠 Sobre mí<br><br>Desarrollador backend especializado en sistemas y arquitectura de servidores. Me apasiona el ecosistema Linux, la automatización de infraestructura y la ciberseguridad aplicada. Construyo proyectos que resuelven problemas reales, siempre buscando código eficiente, arquitecturas escalables y buenas prácticas de seguridad.<br><br>Creo en el aprendizaje continuo a través de la práctica: leo código, documento procesos y comparto conocimiento. Actualmente profundizando en Rust para sistemas de bajo nivel y optimización de rendimiento.</p>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,18,24&text=Hi%20👋,%20I'm%20Ángel%20Ramos&fontSize=40&fontAlignY=35&desc=Backend%20Developer%20|%20Systems%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<br>
+###
 
-## 🧠 Sobre mí
-
-Desarrollador backend especializado en sistemas y arquitectura de servidores. Me apasiona el ecosistema Linux, la automatización de infraestructura y la ciberseguridad aplicada. Construyo proyectos que resuelven problemas reales, siempre buscando código eficiente, arquitecturas escalables y buenas prácticas de seguridad.
-
-Creo en el aprendizaje continuo a través de la práctica: leo código, documento procesos y comparto conocimiento. Actualmente profundizando en Rust para sistemas de bajo nivel y optimización de rendimiento.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## 🛠️ Tech Stack
+<br clear="both">
 
 <div align="center">
-  
-### Lenguajes
-<img src="https://skillicons.dev/icons?i=rust,py,bash,cs,javascript" height="50" alt="languages"/>
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react" height="50" alt="frontend"/>
-
-### Backend & DevOps
-<img src="https://skillicons.dev/icons?i=docker,linux,mysql,nginx,git" height="50" alt="backend"/>
-
-### Tools
-<img src="https://skillicons.dev/icons?i=vscode,vim,github,postman" height="50" alt="tools"/>
-
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+###
 
-<br>
-
-## 🚀 Proyectos Destacados
+<br clear="both">
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔐 [Security Tools Suite]
-**Herramientas de ciberseguridad**
-- Análisis de vulnerabilidades
-- Automatización de pentesting
-- Escaneo de puertos y servicios
-
-`Python` `Bash` `Linux`
-
-</td>
-<td width="50%">
-
-### 🐧 [Linux Automation Scripts]
-**Scripts de automatización**
-- Gestión de servidores
-- Backups automatizados
-- Monitoreo de sistemas
-
-`Bash` `Python` `Systemd`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🦀 [Rust Systems Project]
-**Aplicaciones de bajo nivel**
-- Optimización de rendimiento
-- Programación concurrente
-- Gestión de memoria eficiente
-
-`Rust` `C` `Assembly`
-
-</td>
-<td width="50%">
-
-### 🐳 [Docker Infrastructure]
-**Infraestructura containerizada**
-- Orquestación de servicios
-- CI/CD pipelines
-- Microservicios
-
-`Docker` `Docker-Compose` `Linux`
-
-</td>
-</tr>
-</table>
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+###
 
-<br>
+<br clear="both">
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a5ph2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a5ph2&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+## 📌 Pinned Repositories
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a5ph2&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/a5ph2/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=repo1&theme=dark&hide_border=true" />
   </a>
+  <a href="https://github.com/a5ph2/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=repo2&theme=dark&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/a5ph2/repo3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=repo3&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/a5ph2/repo4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a5ph2&repo=repo4&theme=dark&hide_border=true" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <a href="https://x.com/A5PH2_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://discord.com/users/1053771068847960064" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
   <a href="https://www.youtube.com/channel/UCI8fUVYlT6zgLAwcz8WTaIg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/a5ph2_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="mailto:angelramosgcia@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
-<br>
+###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=a5ph2&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=a5ph2.a5ph2&"  />
 </div>
 
-<br>
-
-## 🐍 Contribution Snake
+###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/a5ph2/a5ph2/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img height="700" src="https://i.pinimg.com/1200x/40/76/0a/40760a0bcc7e26aa65c36cdc3d7bf22a.jpg"  />
 </div>
 
-<br>
+###
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,18,24&section=footer" width="100%"/>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/a5ph2/a5ph2/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=070624&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=040317"  />
 </div>
+
+###
